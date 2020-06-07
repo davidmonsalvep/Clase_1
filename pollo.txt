@@ -1,3 +1,11 @@
 Hola me llamo David
 y estoy en una clase de git
 
+La electrónica es la rama de la 
+física y especialización de la
+ ingeniería, que estudia y emplea 
+sistemas cuyo funcionamiento se
+ basa en la conducción y el control 
+del flujo de los electrones u otras 
+partículas cargadas eléctricamente. ... La electrónica desarrolla en la actualidad una gran variedad de tareas
+
